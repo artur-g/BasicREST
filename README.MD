@@ -1,0 +1,1 @@
+Basic REST implementation in CORE
